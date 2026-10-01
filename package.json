@@ -1,0 +1,16 @@
+{
+  "name": "governed-clinical-actions",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Governed Clinical Actions POC: TypeScript workspace (bootstrap skeleton)",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
