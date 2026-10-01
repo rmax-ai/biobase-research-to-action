@@ -1,6 +1,6 @@
-# biobase-research-to-action
+# research-to-action
 
-Biobase **Research-to-Action** POC: a natural-language biomedical research intent must
+**Research-to-Action** POC: a natural-language biomedical research intent must
 become a **correct, authorized, reproducible, and actionable transaction** across
 heterogeneous/federated clinical data.
 
@@ -24,7 +24,7 @@ feasibility, governance, provenance, supplier mix, and mock procurement.
 
 | Path | Purpose |
 | --- | --- |
-| `src/biobase_research_to_action/` | Python package (uv-managed, src layout) |
+| `src/research_to_action/` | Python package (uv-managed, src layout) |
 | `tests/` | Python test suite (pytest) |
 | `ts/` | TypeScript workspace (placeholder) |
 

@@ -1,9 +1,9 @@
 {
-  "name": "biobase-research-to-action",
+  "name": "research-to-action",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Biobase Research-to-Action POC: TypeScript workspace (bootstrap skeleton)",
+  "description": "Research-to-Action POC: TypeScript workspace (bootstrap skeleton)",
   "engines": {
     "node": ">=20"
   },

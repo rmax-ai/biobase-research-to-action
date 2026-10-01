@@ -1,9 +1,9 @@
-# Biobase Research-to-Action POC — Canonical System Specification
+# Research-to-Action POC — Canonical System Specification
 
 Status: implementation-ready POC specification  
 Owner: ChatGPT / Max  
 Execution coordinator: rmax-10  
-Repository: `rmax-ai/biobase-research-to-action`
+Repository: `rmax-ai/research-to-action`
 
 ## 1. Objective
 
@@ -648,7 +648,7 @@ All patient/data content clearly labeled synthetic/demo.
 ## 26. Proposed repository layout
 
 ```text
-biobase-research-to-action/
+research-to-action/
   README.md
   LICENSE
   pyproject.toml
@@ -664,7 +664,7 @@ biobase-research-to-action/
     evaluation.md
     demo-script.md
     threat-model.md
-  src/biobase_poc/
+  src/research_to_action/
     api/
     models/
     workflow/

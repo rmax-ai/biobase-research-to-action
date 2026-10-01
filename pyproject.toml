@@ -1,7 +1,7 @@
 [project]
-name = "biobase-research-to-action"
+name = "research-to-action"
 version = "0.1.0"
-description = "Biobase Research-to-Action POC: biomedical research intent to authorized, reproducible, actionable data transactions (bootstrap)"
+description = "Research-to-Action POC: biomedical research intent to authorized, reproducible, actionable data transactions (bootstrap)"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []

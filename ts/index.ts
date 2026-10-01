@@ -5,4 +5,4 @@
  * product/system spec, which lands before implementation.
  */
 
-export const BOOTSTRAP_MARKER = "biobase-research-to-action" as const;
+export const BOOTSTRAP_MARKER = "research-to-action" as const;
